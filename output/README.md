@@ -1,1 +1,2 @@
 Anot dockel
+fixed
